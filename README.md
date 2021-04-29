@@ -5,6 +5,6 @@
 
 - Display of total amount of games played (ran out of time)
 - Experienced some issues with styling in CSS, particularly, getting #icon images nested proportionately within the 50px border-radius
-- Issue with transforming the "Play Again" option from prompt to the DOM
+- Issue with transforming the "Play Again" option from prompt to the DOM (also ran out of time)
 
 
